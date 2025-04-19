@@ -1,0 +1,2 @@
+## Comentarios
+Axel, en lineas generales 👍, detalle importante el emit no estaria haciendo las cosas como deberia ya que si bien emite correctamente el evento, esta sumando siempre un like y deberia tener un flag para saber cuando sumar o cuando no, podrias hacerlo en el mismo componente donde si presiono el boton una vez cambies una propiedad computada para que no vuelva a sumar, otra cosa no usaste el v-if para mostrar sino hay imagen algun tengo que nos avise de eso
